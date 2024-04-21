@@ -4,6 +4,7 @@
 
 ###### This is an `<h6>` header, which is the smallest
 
-
+# STEP２
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 サンプルのコードを追加
